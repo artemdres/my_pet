@@ -54,7 +54,7 @@ class Game:
                     self.hill.scet=self.hill.scet-random.randint(5,10)
             elif self.smail.scet<20:
                 if sobitie.type==self.serdce:
-                    self.hill.scet=self.hill.scet-random.randint(5,10``)
+                    self.hill.scet=self.hill.scet-random.randint(5,10)
                 
     
     def plye(self):
